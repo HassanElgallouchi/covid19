@@ -6,7 +6,7 @@ HTML5, CSS3, Javascript, Git, GitHub, Flex
 ### Voir la démo => [[Click Here]](https://hassanelgallouchi.github.io/covid19/)
 
 ### Accueil Desktop
-![!](./assets/covid19_desktop.jpg)
+![!](./assets/covid19_desktop.png)
 
 ### Accueil Mobile
 ![!](./assets/covid19_mobile.png)
